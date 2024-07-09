@@ -11,3 +11,5 @@ Testing was conducted throughout the development process using the Android Emula
 A challenge arose in implementing a user-friendly database interaction for weight entries. The solution involved creating a clear grid layout for data visualization while ensuring efficient data storage and retrieval functionalities.
 
 Overall, this project effectively showcased my expertise in UI/UX design principles by creating a user-centered interface for the Weight Tracker App.  Furthermore, the code implementation demonstrates a strong understanding of Java programming best practices and essential mobile development functionalities like user login and database management.
+
+![2024-06-30 17-22-23 High Res Screenshot](https://github.com/desco1122/CS-360/assets/52110303/71549ea4-9823-4911-8e25-52e4b28fdce4)
