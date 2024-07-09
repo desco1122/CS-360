@@ -1,4 +1,4 @@
-## Weight Tracker App: Summary and Reflection
+## Weight Tracker App
 
 This project focused on developing a Weight Tracker App to address user needs in managing their weight and improving their health. The core functionalities include secure user login, weight entry logging, weight history visualization in a grid format, and optional SMS notification reminders.
 
